@@ -1,31 +1,30 @@
-## Experiment No: 1d – Conditional Statements- Checking Vowel or not
+## Experiment No: 1d – Conditional Statements- that number is equal to 0 or positive number or negative.
 
 ## AIM  
-To Write a Python program to check whether the given character is a vowel or not using if..else statement
+To Write a Python program to check whether the given number is 0 or positive or negative using if..else statement
 ## ALGORITHM  
 1. Begin the program.  
-2. Take a character input from the user
-3. Convert the character to lowercase
-4. Check if the lowercase character is one of the vowels: 'a', 'e', 'i', 'o', 'u'
-5. If it is a vowel, display "The given character is a vowel"
-6. Otherwise, display "The given character is NOT a vowel"
-4. Terminate the program.
+2. Take a number input from the user
+3. Check if the number is less than the zero or positive or negative
+4. if it is 0 display "Number is 0"
+5. if it is positive number display "get the input from the user is a positive number"
+6. Otherwise, display "get the input from the user is a Negative number"
+7. Terminate the program.
 
 ## PROGRAM
-```python
-# Reg.No-
-# Name-
-# Write your code here
-
-char = input("Enter a character: ")
-char_lower = char.lower()
-
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
-else:
-    print("The given character is NOT a vowel")
 ```
-
+a=int(input())
+if a==0:
+    print("Number is 0")
+elif a>=0:
+    print(f"{a} is a Positive number")
+elif a<=0:
+    print(f"{a} is a Negative number")
+else:
+    print(" ")
+```
 ## OUTPUT
+![Screenshot 2025-04-26 143126](https://github.com/user-attachments/assets/a860024c-f0f4-4119-959a-62a8a768942f)
 
 ## RESULT
+Thus , python program to check whether the given number is 0 or positive or negative using if..else statement are verified
