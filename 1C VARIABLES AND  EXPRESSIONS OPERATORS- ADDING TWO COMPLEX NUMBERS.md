@@ -1,7 +1,7 @@
-# Experiment No: 1c-Varibles and Expressions, Operators -Two Complex Numbers
+# Experiment No: 1c-Varibles and Expressions, Operators -Printing Two Complex Numbers
 
 ## AIM
-To write a Python program for print two complex numbers, and get the user input using the `float()` function.
+To write a Python program for printing two complex numbers, and get the user input using the `float()` function.
 
 ## ALGORITHM
 1. Begin the program.
