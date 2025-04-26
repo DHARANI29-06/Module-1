@@ -29,6 +29,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
+![Screenshot 2025-04-26 134236](https://github.com/user-attachments/assets/80c25249-1962-4444-8043-e9733fbb91f6)
 
 ## RESULT
-
+Thus, Print the string in multiple lines using triple quotes are verified
